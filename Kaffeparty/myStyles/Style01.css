@@ -1,0 +1,23 @@
+﻿body {
+    background-color: sandybrown
+}
+
+
+header, footer {
+    background-color:chocolate;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    border: 0px;
+
+}
+
+
+
+nav div{
+    background-color: saddlebrown;
+
+
+}
+
