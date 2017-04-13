@@ -95,15 +95,17 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="html\coffemachines.html" />
     <Content Include="html\kladd.html" />
     <Content Include="html\nav.html" />
-    <Content Include="html\party.html" />
     <Content Include="images\Allneed1-kvadrat.jpg" />
     <Content Include="images\Allneed1.jpg" />
     <Content Include="images\Allneed2.jpg" />
+    <Content Include="images\Allneed3.jpg" />
+    <Content Include="images\Allneed4.jpg" />
+    <Content Include="images\Allneed5.jpg" />
     <Content Include="images\bullar.jpg" />
     <Content Include="images\danger.jpg" />
+    <Content Include="images\danger2.jpg" />
     <Content Include="images\kaffePaDropp.png" />
     <Content Include="images\muffins.jpg" />
     <Content Include="images\snabbkaffe.jpg" />
@@ -114,6 +116,7 @@
     <Content Include="Scripts\myScripts.js" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
+    <Content Include="PDF\Övning 10- Bootstrap 3 - Kaffeparty.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
